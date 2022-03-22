@@ -30,6 +30,6 @@
         "venv.bak{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/c835ae0a-2ef3-4e94-8109-a56a844b6f2b/resourceGroups/G2_Group17_RosalesM/providers/Microsoft.Web/sites/mrosales-vorbestellen",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c835ae0a-2ef3-4e94-8109-a56a844b6f2b/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/rosalesm-vorbestellen"
 }
