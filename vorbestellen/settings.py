@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-5-(_#&rv1%ylc421n96^wco1(w61yz93l##yb#sr-1a(9w_u!9
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '52.182.136.38', '130.105.135.127', '180.190.192.53',
-                'vorbestellan.azurewebsites.net',
-                'https://vorbestellan.azurewebsites.net']
+                'mrosales-vorbestellen.azurewebsites.net',
+                'https://mrosales-vorbestellen.azurewebsites.net']
 
 
 # Application definition
